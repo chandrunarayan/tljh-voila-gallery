@@ -1,4 +1,11 @@
 examples:
+  singing-black-hole:
+    title: Singing Black Hole
+    description: Explore the Singing Blckhole to learn more about Markdown and LaTex
+    url: voila/render/index.ipynb
+    repo_url: https://github.com/chandrunarayan/singing_black_hole
+    ref: 7cd5df8169fe6acefe1d5a200f9878e441b9208a
+    image_url: https://i.imgur.com/IeG75O3.png
   country-indicators:
     title: Country Indicators
     description: Explore the correlations between indicators of development using matplotlib and ipywidgets
